@@ -7,7 +7,7 @@ public class PositiveEvenOdd {
         int num = sc.nextInt();
 
         if (num>0 && num%2==0){
-            System.out.println("even");
+            System.out.println("Positive even");
         }
         else if (num>0 && num%2!=0) {
             System.out.println("positive odd");
